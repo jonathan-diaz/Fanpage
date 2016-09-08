@@ -1,17 +1,33 @@
 body {
-    background-image: url("");
-    background-size: cover;
+    background-image: url("http://45.media.tumblr.com/bce4d0ba93fec64824a0c0ba176dcff0/tumblr_nzdykcoPsx1uy1uyro1_250.gif");
 }
 .Reasons img {
     float: right;
     border-radius: 50px;
 }
 .title img {
-    height: 60px;
-    width: 200px;
+    height: 300px;
+    width: 500px;
+    border: 2px white solid;
 } 
 .title h1 {
     margin-left:550px;
-    font-size: 100px
-    
+    font-size: 100px;
+    font-family: fantasy;
+    color: #999;
+}
+.navv {
+    background-color: #A6685B;
+    padding: 10px;
+    opacity: .7;
+    border-radius: 20px;
+    margin: 10px;
+}
+p {
+    color: white;
+    border: 1px white solid;
+    border-radius: 4px;
+    background-color: #660000;
+    opacity: .6;
+    text-indent: 9px;
 }
