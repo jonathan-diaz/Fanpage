@@ -2,3 +2,16 @@ body {
     background-image: url("");
     background-size: cover;
 }
+.Reasons img {
+    float: right;
+    border-radius: 50px;
+}
+.title img {
+    height: 60px;
+    width: 200px;
+} 
+.title h1 {
+    margin-left:550px;
+    font-size: 100px
+    
+}
