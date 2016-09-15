@@ -37,7 +37,7 @@ p {
     padding: 2px 2px 2px 2px;
 }
 #navigationMenu li{
-	list-style:none;
+	list-style: none;
 	height:39px;
 	padding:2px;
 	width:40px;
@@ -48,7 +48,7 @@ p {
 	/* Container properties */
 	width:0;
 	left:38px;
-	padding:0;
+	padding:0px;
 	position:absolute;
 	overflow:hidden;
 
