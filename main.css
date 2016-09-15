@@ -41,6 +41,7 @@ p {
 	height:39px;
 	padding:2px;
 	width:40px;
+    margin-left: -50px;
 }
 /* taken from tutorialzine.com*/
 #navigationMenu span{
@@ -65,11 +66,15 @@ p {
 
 #navigationMenu a{
 	/* The background sprite: */
-	background: url("http://vignette2.wikia.nocookie.net/jackass/images/a/ad/Ban_red_skull.png/revision/latest?cb=20120919113435") cover;
+	background-color: whitesmoke;
+    opacity: .8;
+    background-size: cover;
 	height:39px;
 	width:38px;
 	display:block;
-	position:relative;
+	position:fixed;
+    border-radius: 50%;
+    border: 2px white solid;
 }
 
 /* General hover styles */
@@ -90,29 +95,24 @@ p {
 /* Green Button */
 
 #navigationMenu .home {
-    background-position:0 0;
-    background-image: url("http://vignette2.wikia.nocookie.net/jackass/images/a/ad/Ban_red_skull.png/revision/latest?cb=20120919113435");
-}
-#navigationMenu .home:hover {
-    background-position:0 -39px;
+    background-position:8.5em 0px;
+    background-image: url("https://media.giphy.com/media/B9vTePJ0yeFJ6/giphy.gif");
 }
 #navigationMenu .home span{
-	background-color:#7da315;
-	color:#3d4f0c;
+	background-color:#740A0A;
+	color:#EDD800;
 	text-shadow:1px 1px 0 #99bf31;
 }
 
 /* Blue Button */
 
 #navigationMenu .about { 
-    background-position:-38px 0;
-}
-#navigationMenu .about:hover { 
-    background-position:-38px -39px;
+    background-position:-5px 0;
+    background-image: url("http://33.media.tumblr.com/c1c5fbddf2ec10753cb1da80947e1880/tumblr_ng9qz8TqFO1tyfqs1o1_250.gif");
 }
 #navigationMenu .about span{
-	background-color:#1e8bb4;
-	color:#223a44;
+	background-color:#191150;
+	color:#EDD800;
 	text-shadow:1px 1px 0 #44a8d0;
 }
 
@@ -120,12 +120,22 @@ p {
 
 #navigationMenu .services {
     background-position:-76px 0;
+    background-image: url("http://25.media.tumblr.com/c0a3dcc29e25778eb8cced1d8f2fe7bd/tumblr_mwl147GsQO1s3iup1o1_500.gif")
 }
 #navigationMenu .services:hover { 
     background-position:-76px -39px;
 }
 #navigationMenu .services span{
-	background-color:#c86c1f;
-	color:#5a3517;
+	background-color:#005A00;
+	color:#EDD800;
 	text-shadow:1px 1px 0 #d28344;
+}
+.border h1 { 
+    background-image: url("http://33.media.tumblr.com/25a634a114a897f0658e7383b6b342f1/tumblr_nciwqyiEOV1tyfqs1o1_500.gif");
+    width: 280px;
+    border-radius: 30px;
+    border: 3px white solid;
+    background-position: center;
+    background-size: 25px;
+    padding: 5px 5px 5px 5px;
 }
