@@ -30,11 +30,12 @@ p {
     border-radius: 4px;
     background-color: #660000;
     opacity: .6;
-    text-indent: 9px;
+    text-indent: 50px;
     width: 700px; 
     font-size: 17px;
     font-family: cursive;
     padding: 2px 2px 2px 2px;
+    margin-left: 30px;
 }
 #navigationMenu li{
 	list-style: none;
@@ -138,4 +139,11 @@ p {
     background-position: center;
     background-size: 25px;
     padding: 5px 5px 5px 5px;
+}
+div .smile {
+    border-radius: 50%;
+    margin: 5px 5px 5px 5px;
+    padding: 5em 5em 5em 5em;
+    display: block;
+    
 }
