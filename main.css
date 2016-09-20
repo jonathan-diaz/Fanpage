@@ -152,3 +152,168 @@ footer {
     opacity: .6;
     border-radius: 50px;
 }
+iframe {
+    width: 600px;
+    height: 300px;
+    border-radius: 40px;
+    border: 3px white solid;
+}body {
+    background-image: url("http://45.media.tumblr.com/bce4d0ba93fec64824a0c0ba176dcff0/tumblr_nzdykcoPsx1uy1uyro1_250.gif");
+}
+.Reasons img {
+    float: right;
+    border-radius: 50px;
+}
+.title img {
+    height: 300px;
+    width: 500px;
+    border: 2px white solid;
+    margin-top: -130px;
+} 
+.title h1 {
+    margin-left:550px;
+    font-size: 100px;
+    font-family: fantasy;
+    color: #999;
+}
+.navv {
+    background-color: #A6685B;
+    padding: 10px;
+    opacity: .7;
+    border-radius: 20px;
+    margin: 10px;
+}
+.Reasons p {
+    color: white;
+    border: 1px white solid;
+    border-radius: 4px;
+    background-color: #660000;
+    opacity: .6;
+    text-indent: 50px;
+    width: 700px; 
+    font-size: 17px;
+    font-family: cursive;
+    padding: 2px 2px 2px 2px;
+    margin-left: 30px;
+}
+#navigationMenu li{
+	list-style: none;
+	height:39px;
+	padding:2px;
+	width:40px;
+    margin-left: -50px;
+}
+/* taken from tutorialzine.com*/
+#navigationMenu span{
+	/* Container properties */
+	width:0;
+	left:38px;
+	padding:0px;
+	position:absolute;
+	overflow:hidden;
+
+	/* Text properties */
+	font-family:'Myriad Pro',Arial, Helvetica, sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	letter-spacing:0.6px;
+	white-space:nowrap;
+	line-height:39px;
+
+	/* CSS3 Transition: */
+	-webkit-transition: 0.25s;
+}
+
+#navigationMenu a{
+	/* The background sprite: */
+	background-color: whitesmoke;
+    opacity: .8;
+    background-size: cover;
+	height:39px;
+	width:38px;
+	display:block;
+	position:absolute;
+    border-radius: 50%;
+    border: 2px white solid;
+}
+
+/* General hover styles */
+
+#navigationMenu a:hover span{ 
+    width:auto; 
+    padding:0 20px;
+    overflow:visible;
+}
+#navigationMenu a:hover{
+	text-decoration:none;
+
+	/* CSS outer glow with the box-shadow property */
+	-moz-box-shadow:0 0 5px #9ddff5;
+	-webkit-box-shadow:0 0 5px #9ddff5;
+	box-shadow:0 0 5px #9ddff5;
+}
+/* Green Button */
+
+#navigationMenu .home {
+    background-position:8.5em 0px;
+    background-image: url("https://media.giphy.com/media/B9vTePJ0yeFJ6/giphy.gif");
+}
+#navigationMenu .home span{
+	background-color:#740A0A;
+	color:#EDD800;
+	text-shadow:1px 1px 0 #99bf31;
+}
+
+/* Blue Button */
+
+#navigationMenu .about { 
+    background-position:-5px 0;
+    background-image: url("http://33.media.tumblr.com/c1c5fbddf2ec10753cb1da80947e1880/tumblr_ng9qz8TqFO1tyfqs1o1_250.gif");
+}
+#navigationMenu .about span{
+	background-color:#191150;
+	color:#EDD800;
+	text-shadow:1px 1px 0 #44a8d0;
+}
+
+/* Orange Button */
+
+#navigationMenu .services {
+    background-position:-76px 0;
+    background-image: url("http://25.media.tumblr.com/c0a3dcc29e25778eb8cced1d8f2fe7bd/tumblr_mwl147GsQO1s3iup1o1_500.gif")
+}
+#navigationMenu .services:hover { 
+    background-position:-76px -39px;
+}
+#navigationMenu .services span{
+	background-color:#005A00;
+	color:#EDD800;
+	text-shadow:1px 1px 0 #d28344;
+}
+.border h1 { 
+    background-image: url("http://33.media.tumblr.com/25a634a114a897f0658e7383b6b342f1/tumblr_nciwqyiEOV1tyfqs1o1_500.gif");
+    width: 280px;
+    border-radius: 30px;
+    border: 3px white solid;
+    background-position: center;
+    background-size: 25px;
+    padding: 5px 5px 5px 5px;
+}
+.smile {
+    margin: 5px 5px 5px 5px;
+    padding: 10em 50em 5em 5em;
+    display: inline-block;
+}
+footer {
+    background-color: white;
+    width: 240px;
+    text-align: center;
+    opacity: .6;
+    border-radius: 50px;
+}
+iframe {
+    width: 600px;
+    height: 300px;
+    border-radius: 40px;
+    border: 3px white solid;
+}
