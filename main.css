@@ -24,7 +24,7 @@ body {
     border-radius: 20px;
     margin: 10px;
 }
-p {
+.Reasons p {
     color: white;
     border: 1px white solid;
     border-radius: 4px;
@@ -73,7 +73,7 @@ p {
 	height:39px;
 	width:38px;
 	display:block;
-	position:fixed;
+	position:absolute;
     border-radius: 50%;
     border: 2px white solid;
 }
@@ -140,10 +140,15 @@ p {
     background-size: 25px;
     padding: 5px 5px 5px 5px;
 }
-div .smile {
-    border-radius: 50%;
+.smile {
     margin: 5px 5px 5px 5px;
-    padding: 5em 5em 5em 5em;
-    display: block;
-    
+    padding: 10em 50em 5em 5em;
+    display: inline-block;
+}
+footer {
+    background-color: white;
+    width: 240px;
+    text-align: center;
+    opacity: .6;
+    border-radius: 50px;
 }
