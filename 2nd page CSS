@@ -2,3 +2,8 @@ body {
     background-image: url("https://cheaperthantherapy.files.wordpress.com/2014/10/poltergeist-clown2.gif"), url("https://s-media-cache-ak0.pinimg.com/originals/20/27/b4/2027b44ecaf0812b7a291e8da9092f74.gif");
     background-size: 700px;;
 }
+p {
+    font-family: 'Quicksand', sans-serif;
+    color: #A87373;
+    font-size: 30px;
+}
