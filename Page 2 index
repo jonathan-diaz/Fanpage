@@ -13,9 +13,21 @@
                 <iframe width="0" height="0" src="https://www.youtube.com/embed/kVpPlWlHMrA?modestbranding=1&amp;fs=0&amp;rel=0&amp;hd=1&amp;disablekb=0&amp;showinfo=0&amp;iv_load_policy=0&amp;autoplay=1&amp;loop=1&amp;controls=0&amp;playlist=kVpPlWlHMrA" frameborder="0" allowfullscreen></iframe>
             </div>
             <div class="col-md-4">
-                <p> My favorite horror movies are....</p>
+                <p> My favorite horror movies are The Strangers, The Conjuring, Grave Encounters, Insidious, Sinister 2.</p>
+                <p>The Strangers is a great movie to me since it takes place in a home, which everyone has, and they randomly get invaded. Knowing that it could potentially happen to you makes it horrifying.</p>
+                <p> The Conjuring gives off that scary feeling the first time you watch it since you're not sure what's going to happen. The Hide and Clap part was the most creepiest to me.</p>
             </div>
+            <div class=" col-md-8">
+                <div class="Movie">
+                    <img src="http://67.media.tumblr.com/53754c778dad3bf4e55f6d9d507210dd/tumblr_o3hezzj6YU1tjydheo1_500.gif">
+                </div>
+                <div class="Strangers">
+                    <img src="https://s-media-cache-ak0.pinimg.com/originals/65/b8/a9/65b8a993d1a176956f249d53ed5cb37e.jpg">
+                </div>
+                <div class="Conjuring">
+                    <img src="http://67.media.tumblr.com/17d5a78ef9652be860bdfeac86a972a6/tumblr_nc2jmm0BSG1tjydheo1_500.gif">
+                </div>
+            </div>            
         </div>
-        
     </body>
 </html>
