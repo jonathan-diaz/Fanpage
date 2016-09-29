@@ -8,11 +8,36 @@
         <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
     </head>
     <body>
+        <div class="nav">
+            <ul id="navigationMenu">
+                <li>
+                    <a class="home" href="#">
+                        <span>Home</span>
+                    </a>
+                </li>
+                 <li>
+                     <a class="about" href="#">
+                        <span>Favorite Movies</span>
+                     </a>
+                </li>
+                <li>
+                    <a class="services" href="#">
+                        <span>Favorite Horror Games</span>
+                    </a>
+                </li>
+            </ul>    
+        </div>
         <div class="container">
-             <div>
-                <iframe width="0" height="0" src="https://www.youtube.com/embed/kVpPlWlHMrA?modestbranding=1&amp;fs=0&amp;rel=0&amp;hd=1&amp;disablekb=0&amp;showinfo=0&amp;iv_load_policy=0&amp;autoplay=1&amp;loop=1&amp;controls=0&amp;playlist=kVpPlWlHMrA" frameborder="0" allowfullscreen></iframe>
+            <div c;ass="col-md-6">
+                <div class="heading">
+                    <h1> Favorite Movies</h1>
+                </div>
             </div>
-            <div class="col-md-4">
+            <div class="row">
+                <div>
+                    <iframe width="0" height="0" src="https://www.youtube.com/embed/kVpPlWlHMrA?modestbranding=1&amp;fs=0&amp;rel=0&amp;hd=1&amp;disablekb=0&amp;showinfo=0&amp;iv_load_policy=0&amp;autoplay=1&amp;loop=1&amp;controls=0&amp;playlist=kVpPlWlHMrA" frameborder="0"     allowfullscreen></iframe>
+                </div>
+                <div class="col-md-4">
                 <p> My favorite horror movies are The Strangers, The Conjuring, Grave Encounters, Insidious, Sinister 2.</p>
                 <p>The Strangers is a great movie to me since it takes place in a home, which everyone has, and they randomly get invaded. Knowing that it could potentially happen to you makes it horrifying.</p>
                 <p> The Conjuring gives off that scary feeling the first time you watch it since you're not sure what's going to happen. The Hide and Clap part was the most creepiest to me.</p>
@@ -29,5 +54,6 @@
                 </div>
             </div>            
         </div>
+        <footer>Creator: Jonathan Diaz</footer>
     </body>
 </html>
