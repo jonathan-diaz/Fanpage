@@ -8,11 +8,14 @@
         <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
     </head>
     <body>
+        <div class="floatyeye">
+            <img src="https://media.giphy.com/media/4LmM8UJZGCV4k/giphy.gif">
+        </div>
         <h1> Favorite Movies</h1>
         <div class="nav">
             <ul id="navigationMenu">
                 <li>
-                    <a class="home" href="fanpage%20(2).html">
+                    <a class="home" href="fanpage.html">
                         <span>Home</span>
                     </a>
                 </li>
