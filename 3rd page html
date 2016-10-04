@@ -8,3 +8,37 @@
         <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
     </head>
     <body>
+        <div class="music">
+            <iframe width="0" height="0" src="https://www.youtube.com/embed/BfZEMqC8YIU?autoplay=1&amp;loop=1&amp;playlist=BfZEMqC8YIU" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <h1> Favorite Games</h1>
+        <div class="nav">
+            <ul id="navigationMenu">
+                <li>
+                    <a class="home" href="fanpage.html">
+                        <span>Home</span>
+                    </a>
+                </li>
+                 <li>
+                     <a class="about" href="2ndpage.html">
+                        <span>Favorite Movies</span>
+                     </a>
+                </li>
+                <li>
+                    <a class="services" href="3rdpage.html">
+                        <span>Favorite Horror Games</span>
+                    </a>
+                </li>
+            </ul>    
+        </div>
+        <div class="container">
+            <div class="col-md-5">
+                <p> My favorie horror games are Dead Space, Outlast and Resident Evil. </p>
+                <p> Dead Space was by far the scariest to me compared to the rest since not much could be redicted and the set up for the scare was well done.</p>
+                <p> Outlast is the first horror game I played on PC and it was my last. The setting itself was creepy. The darkness and chases give you some sort of adrenaline feeling. </p>
+            </div>
+            <div class="col-md-7">
+                <img class="DeadSpace" src="https://67.media.tumblr.com/99c337b26d4df8a95295f6f7663725e6/tumblr_nixkfnVEMD1u6jhh4o1_400.gif">
+            </div>
+        </div>
+    </body>
