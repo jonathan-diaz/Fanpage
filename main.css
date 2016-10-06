@@ -2,20 +2,23 @@ body {
     background-image: url("http://45.media.tumblr.com/bce4d0ba93fec64824a0c0ba176dcff0/tumblr_nzdykcoPsx1uy1uyro1_250.gif");
 }
 .s img {
-    height: 261px;
+    height: 345px;
     width: 480px;
     border-radius: 50px;
 }
 .smile img {
-    height: 300px;
+    height: 280px;
     width: 477px;
     border-radius: 50px;
+    margin-top: 20px;
 } 
 .title h1 {
     margin-left:550px;
     font-size: 100px;
-    font-family: fantasy;
-    color: #999;
+    font-family: 'Cinzel', serif;
+    color: #F8F8F8;
+    margin-top: -120px;
+    font-weight: bolder;
 }
 .nav {
     padding-left: 10px;
@@ -26,13 +29,13 @@ body {
     color: white;
     border: 1px white solid;
     border-radius: 4px;
-    background-color: #660000;
+    background-color: #2B2B2B;
     opacity: .6;
     text-indent: 50px;
     width: 659px; 
-    font-size: 17px;
-    font-family: cursive;
-    padding: 2px 2px 2px 2px;
+    font-size: 19px;
+    font-family: 'Dosis', sans-serif;
+    padding: 9px 9px 9px 9px;
     margin-left: -450px;
 }
 #navigationMenu li{
@@ -143,15 +146,14 @@ body {
     text-align: center;
     font-size: 130px;
 }
-.smile img {
-    padding-top: 20px;
-}
 footer {
     background-color: white;
     width: 230px;
     text-align: center;
     opacity: .6;
     border-radius: 5em;
+    margin-left: 500px;
+    margin-top: 5px;
 }
 .video iframe {
     width: 550px;
