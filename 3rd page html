@@ -11,7 +11,6 @@
         <div class="music">
             <iframe width="0" height="0" src="https://www.youtube.com/embed/BfZEMqC8YIU?autoplay=1&amp;loop=1&amp;playlist=BfZEMqC8YIU" frameborder="0" allowfullscreen></iframe>
         </div>
-        <h1> Favorite Games</h1>
         <div class="nav">
             <ul id="navigationMenu">
                 <li>
@@ -31,6 +30,9 @@
                 </li>
             </ul>    
         </div>
+        <div class="heading">
+            <h1> Favorite Games</h1>
+        </div>
         <div class="container">
             <div class="col-md-5">
                 <p> My favorie horror games are Dead Space, Outlast and Resident Evil. </p>
@@ -39,6 +41,7 @@
             </div>
             <div class="col-md-7">
                 <img class="DeadSpace" src="https://67.media.tumblr.com/99c337b26d4df8a95295f6f7663725e6/tumblr_nixkfnVEMD1u6jhh4o1_400.gif">
+                <img class ="Outlast" src="https://s-media-cache-ak0.pinimg.com/originals/bd/a8/6b/bda86b9c0bb9587162a42fa41d8f6288.jpg">
             </div>
         </div>
     </body>
