@@ -1,6 +1,6 @@
 body {
     background-image: url("https://media.giphy.com/media/ChHkCUWvnFoMU/giphy.gif");
-    background-size: 400px;;
+    background-size: 400px;
 }
 p {
     font-family: 'Quicksand', sans-serif;
@@ -136,13 +136,17 @@ footer {
 }
 .heading h1 {
     text-align: center;
-    background-color: white;
-    max-width: 300px;
+    background-image: url("http://www.pbh2.com/wordpress/wp-content/uploads/2013/07/scariest-gifs-laughing-clown.gif");
+    background-size: 105px;
+    max-width: 625px;
     border-radius: 5px;
     opacity: .5;
-    margin-left: 500px;
-    padding: 20px;
+    margin-left: 383px;
+    padding: 40px 20px 40px 20px;
     margin-top: -100px;
+    font-family: 'Special Elite', cursive;
+    font-size: 60px;
+    color: white;
 }
 .floatyeye {
     position: fixed;
