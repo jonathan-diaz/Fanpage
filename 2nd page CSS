@@ -159,3 +159,7 @@ footer {
     height: 300px;
     opacity: .7;
 }
+footer {
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+}
